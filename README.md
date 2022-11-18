@@ -8,4 +8,4 @@ pip install SC2Spa
 ```
 
 ## Data download
-Download datasets from the google drive [link](https://drive.google.com/file/d/1DA6r3xnqGX8E-dxBvE35618nmMJZHH8g/view?usp=sharing) before running the notebooks. Unpack it in the root folder.
+Download datasets from [the google drive link](https://drive.google.com/file/d/1DA6r3xnqGX8E-dxBvE35618nmMJZHH8g/view?usp=sharing) before running the notebooks. Unpack it in the root folder.
