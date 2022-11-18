@@ -1,0 +1,28 @@
+,from,to
+Entorhinal cortex,Entorhinal cortex,Ec
+NeuronSlc17a6,Neuron,NS
+CA3 Principal cells,CA3 Principal cells,CA3Pc
+Oligodendrocyte,Oligodendrocyte,O
+Astrocyte,Astrocyte,A
+Ependymal,Ependymal,E
+CA1 Principal cells,CA1 Principal cells,CA1Pc
+Polydendrocyte,Polydendrocyte,Pl
+Choroid,Choroid_Plexus,C
+Interneuron,Interneuron,I
+Dentate Principal cells,Dentate Principal cells,DPc
+Cajal Retzius,Cajal-retzius,CR
+Endothelial tip,Endothelial_Tip,Et
+Neurogenesis,Neurogenesis,Nr
+Mural,Mural,Mr
+Endothelial stalk,Endothelial_Stalk,Es
+Microglia Macrophages,Microglia macrophage,MM
+19,19,19
+21,21,21
+18,18,18
+22,22,22
+Unassigned,Unassigned,U
+Dentate hilum,Dentate hilum,Dh
+Polydendrocyte-1,Polydendrocyte-1,P-1
+Polydendrocyte-2,Polydendrocyte-2,P-2
+Resident macrophage,Resident macrophage,Rm
+Microglia,Microglia,Mc
