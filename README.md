@@ -1,7 +1,7 @@
 # SC2Spa_Notebooks
 
 ## Install SC2Spa
-SC2Spa is hosted [here]([repository](https://github.com/linbuliao/SC2Spa).
+SC2Spa is hosted [here](https://github.com/linbuliao/SC2Spa).
 Install SC2Spa via PyPI by running:
 ```
 pip install SC2Spa
